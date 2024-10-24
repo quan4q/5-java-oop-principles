@@ -1,0 +1,6 @@
+[DEBUG] 2024.10.24 21:42:33 FirstLogger - debug
+
+[INFO] 2024.10.24 21:42:33 FirstLogger - info
+
+[WARNING] 2024.10.24 21:42:33 FirstLogger - warning
+
